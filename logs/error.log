@@ -1,0 +1,1 @@
+2023/03/28 13:22:23 [error] 31#31: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.20.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
